@@ -41,6 +41,7 @@
             gdb
             valgrind
             zls
+            poop
           ];
           # PKG_CONFIG_PATH = "${pkgs.openssl.dev}/lib/pkgconfig"
           # LD_LIBRARY_PATH="${pkgs.lib.makeLibraryPath (with pkgs;[SDL2 SDL2_image stdenv.cc.cc.lib])}";
